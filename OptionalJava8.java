@@ -1,5 +1,5 @@
 import java.util.Optional;
-
+// Optional class is not Serializable it is not extending any Serializable interface
 public class OptionalJava8 {
 
 	public static Optional<String> getName() {
